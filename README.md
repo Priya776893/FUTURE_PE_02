@@ -22,13 +22,6 @@ Built as **Task 2** during my **Prompt Engineering Internship at Future Interns*
 - **Prompt Engineering**: Crafting precise AI instructions for optimal output
 - **No-Code Development**: Rapid prototyping with AI website builders
 - **UX Design**: Creating smooth, personalized user experiences
-er
-
-## 📊 Results
-- **Build Time**: 30 minutes from prompt to live site
-- **Free Tier Only**: No paid plans required
-- **AI Coverage**: 100% AI-generated content/design
-- **Responsive**: Mobile-optimized across devices
 
 ## 📄 License
 MIT License - Feel free to use as inspiration for your own AI-powered projects!
@@ -39,4 +32,4 @@ MIT License - Feel free to use as inspiration for your own AI-powered projects!
 #NoCode #AIPowered #PromptEngineering #Portfolio
 ```
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/56872106/6609b872-0f76-4ef1-81df-4a5b15d0602e/image.jpg)
+
