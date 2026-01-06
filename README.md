@@ -7,7 +7,8 @@ Prompt Engineering Internship Task 2-: BUILD AN AI-POWERED WEBSITE USING A NO-CO
 
 
 ## 🎯 Project Overview
-Built as **Task 2** during my **Prompt Engineering Internship at Future Interns**. This fully functional AI-powered portfolio website demonstrates seamless integration of AI features using no-code tools—created from a single prompt in under 30 minutes.
+Built as **Task 2** during my **Prompt Engineering Internship at Future Interns**. This fully functional AI-powered portfolio website demonstrates
+ seamless integration of AI features using no-code tools—created from a single prompt in under 30 minutes.
 
 **Live Demo**: https://priyaprasad93719.wixsite.com/ai-powered-portfolio
 
